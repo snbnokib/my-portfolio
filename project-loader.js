@@ -8,7 +8,7 @@ const projects = [
     image: "images/First project.png",
     description:
       "A vibrant tech startup landing page with a bold headline, login form, and call-to-action, set against a stunning sunset background.",
-    link: "#",
+    link: "https://github.com/snbnokib/Project-for-Autologic-Ltd",
   },
   {
     id: 2,
@@ -32,14 +32,14 @@ const projects = [
     image: "images/Portfolio.png",
     description:
       "This is my personal portfolio showcasing a collection of web development projects, with a focus on clean design, responsive layouts, and user-friendly interfaces.",
-    link: "#",
+    link: "snbportfolio.netlify.app",
   },
   {
     id: 5,
     title: "Restaurant Welcome Page",
     image: "images/Restaurant front page.png",
     description: "A clean and responsive front page for a restaurant website. It features a top navbar, welcome text with a call-to-action button on the left, and a login form on the right—designed for both style and user-friendly navigation.",
-    link: "#",
+    link: "https://github.com/snbnokib/Project-for-a-restaurant",
   },
   {
     id: 6,
@@ -47,7 +47,7 @@ const projects = [
     image: "images/Project for food cetaring service.png",
     description:
       "Khana is a modern food catering website showcasing gourmet dishes and special offers. It features a clean design, easy navigation, high-quality food images, and interactive elements like ratings and tags. With options for login and reservations, it's built for restaurants aiming to attract customers and streamline bookings.",
-    link: "#",
+    link: "https://github.com/snbnokib/khana-catering",
   },
 ];
 
